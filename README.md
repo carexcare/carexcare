@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm Care C. 👋</h1>
-<h3 align="center">Computer & Civil Engineer | Software Developer | Data Science Enthusiast</h3>
+<h3 align="center">Computer & Civil Engineer | Data Science Enthusiast</h3>
 
 ---
 
