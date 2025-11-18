@@ -2,18 +2,6 @@
 <h1 align="center">Hi, I'm Care C. 👋</h1>
 <h3 align="center">Computer & Civil Engineer | Software Developer | Data Science Enthusiast</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/care-cagaloglu" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/carexcare" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://kaggle.com/carexcare" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
-  </a>
-</p>
-
 ---
 
 ### ✨ About Me
