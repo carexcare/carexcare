@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Care C. 👋</h1>
+<h2 align="center">Care C.</h2>
 <h3 align="center">Computer & Civil Engineer | Data Science Enthusiast</h3>
 
 ---
@@ -8,7 +8,6 @@
 
 I am a multidisciplinary professional with a dual background in **Computer Engineering** and **Civil Engineering**, blending technical expertise and problem-solving across industries.
 
-Currently, I work as a **Software Engineer (Freelance)**, developing web applications, data-driven solutions, and machine learning projects.
 
 Recent projects:
 - 💡 **Budgecument App**: Django-based budget management for expenses, income, and credit card tracking.
