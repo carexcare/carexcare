@@ -5,7 +5,7 @@ Computer Engineer | Civil Engineer | Data Science for Life Sciences Student
 </h3>
 
 <p align="center">
-I combine software development, civil engineering experience, and data science to build practical tools for real-world problems.
+I combine my engineering background with programming and data science to build practical tools for real-world problems.
 </p>
 
 <p align="center">
@@ -21,156 +21,22 @@ I combine software development, civil engineering experience, and data science t
 
 ## About Me
 
-I am a multidisciplinary professional with a background in **Computer Engineering** and **Civil Engineering**.
+I have a background in **Computer Engineering** and **Civil Engineering**.
 
-I have around 19 years of experience as a **Civil Engineer**, mainly in public sector projects, urban planning, building inspections, property evaluation, restoration, and project management.
+Before focusing more on data science and software development, I worked for many years as a **Civil Engineer** in the public sector. My work included urban planning, building inspections, property evaluation, restoration projects, and project management.
 
-Currently, I am pursuing a **Master's in Data Science for Life Sciences** at **Hanze University of Applied Sciences** in the Netherlands. This program helps me combine programming, data analysis, machine learning, statistics, and life sciences.
-
-I am especially interested in:
-
-- Data science and machine learning
-- Life sciences and biomedical data
-- Omics and integromics
-- Interactive dashboards and data visualization
+I am currently studying **Data Science for Life Sciences** at **Hanze University of Applied Sciences** in the Netherlands. Through this program, I am improving my skills in programming, statistics, machine learning, data analysis, and life sciences.
 
 ---
 
 ## Current Focus
 
-- Improving my skills in **Python, Machine Learning, Data Science, and AI**
+- Improving my skills in **Python, data science, machine learning, and AI**
 - Learning how to analyze **health, biological, and life sciences data**
-- Building practical apps with **Django, Streamlit, Panel, Bokeh, and data visualization tools**
-- Working on academic projects related to **personal health, omics, signal analysis, and time-series data**
-- Developing personal projects related to **finance, property tracking, public services, and AI-supported document analysis**
-- Learning how to write cleaner, maintainable, and scalable code
-
----
-
-## Academic Interests
-
-Through my master's program, I am developing practical skills in several data science and life sciences topics.
-
-- **Data Science for Life Sciences**: applying data science methods to biological, health, and biomedical data
-- **Personal Health Data Analysis**: working with wearable device data, sleep, stress, heart rate, blood pressure, and questionnaire data
-- **Omics and Integromics**: exploring biological datasets and learning how different omics layers can be integrated
-- **Signal Analysis**: analyzing time-series and physiological signals using smoothing, filtering, Fourier analysis, autocorrelation, and spectrograms
-- **Bayesian Statistics**: working with probability models, priors, posteriors, credible intervals, and uncertainty
-- **Numerical Analysis**: solving mathematical and computational problems using numerical methods
-- **Graph Theory**: learning graph structures, nodes, edges, paths, cycles, Euler tours, and network-based thinking
-- **Molecular Biology and Genetics**: building a stronger foundation in biological concepts for life sciences data analysis
-- **Interactive Visualization**: creating dashboards and visual tools to explain data clearly
-
----
-
-## Recent Projects
-
-### Budgecument App
-
-A Django-based budget management application for tracking personal financial records.
-
-Main features:
-
-- Expense tracking
-- Income tracking
-- Credit card tracking
-- Financial record management
-
-Main technologies:
-
-- Python
-- Django
-- SQLite / SQL
-- Bootstrap / AdminLTE
-
----
-
-### Tender Assistant
-
-A Streamlit application that analyzes Turkish legislation and tender-related documents to support tender preparation and decision-making processes.
-
-Main technologies:
-
-- Python
-- Streamlit
-- Sentence-Transformers
-- FAISS
-- Natural Language Processing
-
----
-
-### Finance Predict
-
-A financial forecasting application using historical market data and time-series forecasting.
-
-Main technologies:
-
-- Python
-- Prophet
-- Yahoo Finance data
-- Streamlit
-- Pandas
-
----
-
-### Rentucument App
-
-A property and rent tracking application idea focused on property income, expenses, and tax-related record keeping.
-
-Main features:
-
-- Rental income tracking
-- Missing rent control
-- Property-related expense tracking
-- Tax-related record organization
-- Asset and investment overview
-
----
-
-### Matcha Personal Health Dashboard
-
-An academic data science project focused on analyzing personal health data collected during a matcha intervention study.
-
-The project includes:
-
-- Blood pressure analysis
-- Heart rate and sleep data
-- Stress and sleep questionnaires
-- Cortisol measurements
-- Interactive dashboards
-- Statistical testing
-
-Main technologies:
-
-- Python
-- Pandas
-- Panel
-- Bokeh
-- SciPy / Statsmodels
-
----
-
-### VitalDB Time-Series Analysis
-
-A capstone-style project focused on analyzing physiological time-series data from anesthesia cases.
-
-The project includes:
-
-- Vital signal preprocessing
-- Time-series visualization
-- Phase-based analysis
-- Correlation analysis
-- Autocorrelation
-- Change point detection
-
-Main technologies:
-
-- Python
-- Pandas
-- VitalDB
-- Statsmodels
-- SciPy
-- Bokeh
+- Working on academic projects related to **personal health data, omics, signal analysis, and time-series data**
+- Building practical applications with **Django, Streamlit, Panel, Bokeh, and data visualization tools**
+- Developing personal projects related to **finance tracking, property tracking, and AI-supported document analysis**
+- Writing cleaner, more maintainable, and better-structured code
 
 ---
 
@@ -231,7 +97,7 @@ Main technologies:
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
-### Academic & Scientific Computing
+### Academic Topics
 
 <p>
   <img src="https://img.shields.io/badge/Time--Series%20Analysis-1F618D?style=for-the-badge" alt="Time-Series Analysis" />
@@ -256,15 +122,13 @@ Main technologies:
 
 ---
 
-## What I Bring
+## Background
 
-- Strong analytical thinking from both engineering and data science backgrounds
-- Experience in public sector projects, urban planning, and technical decision-making
-- Practical software development skills with Python, Django, and Streamlit
-- Ability to work with real-world, messy, and multidisciplinary datasets
-- Growing knowledge in health data, life sciences, statistics, and machine learning
-- Interest in AI, automation, decision support systems, and data-driven applications
-- Ability to connect technical solutions with real user needs
+- Engineering experience in public sector projects and technical decision-making
+- Practical software development experience with Python, Django, and Streamlit
+- Experience with real-world and sometimes messy datasets
+- Current academic focus on health data, life sciences, statistics, and machine learning
+- Interest in automation, dashboards, and data-driven applications
 
 ---
 
