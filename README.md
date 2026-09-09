@@ -12,7 +12,7 @@ I combine my engineering background with programming and data science to build p
   <a href="mailto:carexxcare@gmail.com">
     <img src="https://img.shields.io/badge/Email-carexxcare%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/careengineering">
+  <a href="https://github.com/carexcare">
     <img src="https://img.shields.io/badge/GitHub-careengineering-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
