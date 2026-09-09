@@ -59,10 +59,6 @@ I am currently studying **Data Science for Life Sciences** at **Hanze University
   <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge" alt="Machine Learning" />
   <img src="https://img.shields.io/badge/Prophet-0E7C7B?style=for-the-badge" alt="Prophet" />
   <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge" alt="XGBoost" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/Sentence--Transformers-3B3B98?style=for-the-badge" alt="Sentence-Transformers" />
-  <img src="https://img.shields.io/badge/FAISS-00599C?style=for-the-badge" alt="FAISS" />
 </p>
 
 ### Data Visualization & Dashboards
@@ -90,11 +86,8 @@ I am currently studying **Data Science for Life Sciences** at **Hanze University
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
 ### Academic Topics
@@ -115,8 +108,6 @@ I am currently studying **Data Science for Life Sciences** at **Hanze University
   <img src="https://img.shields.io/badge/AutoCAD-CB0000?style=for-the-badge" alt="AutoCAD" />
   <img src="https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge" alt="SketchUp" />
   <img src="https://img.shields.io/badge/ArchiCAD-2D50A5?style=for-the-badge" alt="ArchiCAD" />
-  <img src="https://img.shields.io/badge/V--Ray-000000?style=for-the-badge" alt="V-Ray" />
-  <img src="https://img.shields.io/badge/SolidWorks-DA291C?style=for-the-badge" alt="SolidWorks" />
   <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS" />
 </p>
 
